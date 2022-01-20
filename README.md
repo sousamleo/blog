@@ -4,7 +4,7 @@ A aplicação utilizada foi a https://github.com/openshift-instruqt/blog-django-
 
 Para os pods da aplicação foi utilizado um dockerfile customizado https://raw.githubusercontent.com/sousamleonardo/blog/master/Dockerfile que utiliza uma imagem da Red Hat: registry.access.redhat.com/ubi8/python-38
 
-#fork
+# fork
 
 # Como funciona a implantação?
 
